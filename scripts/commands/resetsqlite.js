@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "resetsqlite",
+	name: "rest",
 	version: "7.0.0",
 	permission: 3,
 	credits: "ryuko",
